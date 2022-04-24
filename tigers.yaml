@@ -1,12 +1,14 @@
 team: Tigers
 
-manager: Kenneth
-coach: Grace
+manager: Thanos
+coach: Ronan
 
 members:
 - Linda
 - William
 - David
 - George
+- Gamora
+- Nebula
 
 fetch: this
